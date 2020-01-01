@@ -18,6 +18,7 @@ public class HelloServiceImpl implements HelloService{
 	public void selectFundingAll() {
 		System.out.println("ss");
 		System.out.println("bb");
+		System.out.println("cc");
 	}
 
 }
