@@ -17,6 +17,7 @@ public class HelloServiceImpl implements HelloService{
 	@Override
 	public void selectFundingAll() {
 		System.out.println("ss");
+		System.out.println("bb");
 	}
 
 }
