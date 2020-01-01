@@ -1,7 +1,5 @@
 package com.yh.service.impl;
 
-import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -16,9 +14,7 @@ public class HelloServiceImpl implements HelloService{
 	private FundingMapper fundingMapper;
 	@Override
 	public void selectFundingAll() {
-		System.out.println("ss");
-		System.out.println("bb");
-		System.out.println("cc");
+		
 	}
 
 }
